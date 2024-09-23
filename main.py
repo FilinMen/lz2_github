@@ -1,5 +1,7 @@
 import math
 import math as a
-result = math.sqrt(144)
-print(int(result))
-print("Hello")
+result = a.sqrt(144)
+b = int(result)
+c = 'Good'
+print( c + str(b))
+print('perhaps')
